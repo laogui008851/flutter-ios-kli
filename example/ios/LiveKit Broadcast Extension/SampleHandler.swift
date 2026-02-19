@@ -8,10 +8,10 @@
 import ReplayKit
 import OSLog
 
-let broadcastLogger = OSLog(subsystem: "io.yunji.example.flutter", category: "云际会议")
+let broadcastLogger = OSLog(subsystem: "iu.yunji.example.flutter", category: "云际会议")
 private enum Constants {
     // the App Group ID value that the app and the broadcast extension targets are setup with. It differs for each app.
-    static let appGroupIdentifier = "group.io.yunji.example.flutter"
+    static let appGroupIdentifier = "group.iu.yunji.example.flutter"
 }
 
 class SampleHandler: RPBroadcastSampleHandler {

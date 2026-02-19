@@ -10,7 +10,7 @@ workflows:
       groups:
         - ios_credentials
       vars:
-        BUNDLE_ID: "io.yunji.example.flutter"
+        BUNDLE_ID: "iu.yunji.example.flutter"
         APP_STORE_APP_ID: "0000000000"  # 替换为你的 App Store Connect App ID
     scripts:
       - name: Set up code signing settings on Xcode project

@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>RTCScreenSharingExtension</key>
-	<string>io.yunji.example.flutter.LiveKit-Broadcast-Extension</string>
+	<string>iu.yunji.example.flutter.LiveKit-Broadcast-Extension</string>
 	<key>RTCAppGroupIdentifier</key>
-	<string>group.io.yunji.example.flutter</string>
+	<string>group.iu.yunji.example.flutter</string>
 	<key>CADisableMinimumFrameDurationOnPhone</key>
 	<true/>
 	<key>CFBundleDevelopmentRegion</key>
